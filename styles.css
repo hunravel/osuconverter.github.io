@@ -1,0 +1,15 @@
+*{
+  margin-top: 100;
+  padding: 0;
+  text-align: center;
+}
+
+style1{
+  display: inline;
+  color: blue;
+}
+
+style2{
+  display: inline-block;
+  color: red;
+}
